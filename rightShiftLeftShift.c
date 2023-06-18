@@ -56,7 +56,7 @@ int main() {
        printf("%d\t",arr[i]);
    }
    
-   
+   printf("Program by Animesh Acharya\t Roll no.:VCIT03 Computer architecture and Algorithms");
 
     return 0;
 }
